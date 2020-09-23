@@ -23,7 +23,7 @@ The objective of this project is to perform clustering on different visitors to 
 
   
  ## Installation Requirements
-1. Clone the repo by running: git clone 
+1. Clone the repo by running: https://github.com/Askoye/Week-13-IP.git
 
 2. Navigate to the project directory: cd pandas
 
