@@ -13,7 +13,7 @@ Ted Askoye
 
 The aim of this project is to predict who is most likely to click on an online cryptography advertisement. The project contains a comprehensive Exploratory Data Analysis on the variables, identifying the characteristics of the individuals who clicked on the ad and using these characteristics to predict who is most likely to click on the ads. This project has applied four supervised learning algorithms i.e K-Nearest Neighbours, Naive Bayes, Support Vector Machines and the Random Forests.
 
-[Find the link to this project here]()
+[Find the link to this project here](https://github.com/Askoye/Week-13-IP/blob/master/Advertising-in-R-Modelling.pdf)
 
 2. Unsupervised Learning with R
 
