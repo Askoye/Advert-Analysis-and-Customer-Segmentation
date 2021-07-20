@@ -6,7 +6,7 @@ This repository contains two projects covering supervised and unsupervised learn
 Supervised and Unsupervised Learning in R 
 
 ## Author
-Ted Askoye
+Ted Askoye Samuel
 
 ## Project Description
 1. Supervised Learning with R.
