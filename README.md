@@ -1,4 +1,4 @@
-# Advert Analysis and Customer Segmentation - Week-13
+# Advert Analysis and Customer Segmentation 
 
 This repository contains two projects covering supervised and unsupervised learning with R
 
