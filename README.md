@@ -1,5 +1,5 @@
-# Week-13-IP
-# Advert Analysis and Customer Segmentation
+# Advert Analysis and Customer Segmentation - Week-13-IP
+
 This repository contains two projects covering supervised and unsupervised learning with R
 
 ## Title
